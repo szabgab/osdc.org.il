@@ -1,0 +1,231 @@
+=head1 Call for Papers
+
+Papers on open source development tools, languages and technologies are
+solicited for submission to OSDC Israel 2008. We're interested in a wide 
+range of open source technologies and languages - when submitting a paper,
+please feel free to select 'Other' if none of the listed categories
+fit. For some examples, take a look at some previous presentations at
+L<http://osdc.org.il/2006/presentations.html>.
+
+Please visit the home page for a list of key dates:
+L<http://osdc.org.il/>.
+
+We've tried to include a range of streams for papers - please
+select all that apply. If you think we've missed something obvious,
+please let us know! You can contact the conference organizers at
+L<organizers@osdc.org.il>
+
+=head2 Instructions for Presenters
+
+B<All presentations (except lightning talks) must be accompanied by
+presentation materials>. These may be as simple as submitting the slides
+you intend to present, although a detailed paper complementing your talk
+matter would be preferred.
+
+Failure to submit a paper may result in speaker benefits being withdrawn.
+
+Classes and auditoriums include a projector and either a flip-board or a
+white-board. You are expected to provide your own laptop. If you require
+any additional presentational aids please contact us in advance.
+
+=head2 Presentation formats
+
+We will accept the following types of presentation:
+
+=head3 Lightning Talks (5 minutes)
+
+You don't need to submit a proposal for a lightning talk. These will be
+organised a few weeks prior to the conference. Instructions will be
+posted on the news page, please stay tuned for updates.
+
+Lightning talks are brief talks that focus on a single example, idea,
+project or technique. Lightning talks are not expected to cover all
+aspects of the subject. They're an excellent forum for first-time
+speakers.
+
+=head3 Short (20 minutes) and Standard (40 minutes)
+
+This is the preferred format. This is enough time to cover a few issues
+well and allows us to provide a good selection of talks throughout
+the day.
+
+=head3 Long (90 minutes)
+
+Long talks are ideal for experienced speakers who want to cover a large
+topic.
+
+If you choose the longer time slot please include include a justification
+in your proposal. We reserve the right to ask you to change a long talk
+proposal to be a standard length instead.
+
+=head2 Submission stages
+
+=head3 1. Proposals
+
+Your proposal will need to include:
+
+=over 4
+
+=item * your name and a bit of bio info (include a bit about your qualifications regarding your presentation topic)
+
+=item * name of talk
+
+=item * a really brief summary of the presentation (around 30 words)
+
+=item * a description of what you expect to cover (around 200 words)
+
+=item * who your talk is likely to interest (some keywords)
+
+=item * likely topic of talk (track)
+
+=item * name and bio information of any co-authors
+
+=item * language the talk will be presented in
+
+=back
+
+Don't panic. We don't require you to have written the technology that
+you want to talk about. If you use something in your day to day working
+life and you think that other people might benefit from using it, then
+feel free to propose a talk on it.
+
+To submit a proposal, please use the proposal submission form that
+will be placed on L<http://osdc.org.il/2008/>.  You will need to log in,
+or create an account if you don't have one already (instructions are 
+going to be on that page).
+
+=head3 2. Proposals acceptance
+
+Authors will be notified of the acceptance of their proposal by the
+proposal acceptance date. Obviously we'd love to accept as many proposals
+as we can, but we only have a certain number of sessions to fill.
+
+If you require faster confirmation of acceptance (for example, because you
+are traveling from overseas and require extra time to make arrangements)
+please communicate this to the organizers when submitting your proposal.
+
+=head3 3. Paper Submission
+
+B<All presenters are required to submit presentation materials by the
+specified date.  Failure to do so may result in loss of your speaking
+slot and speaker benefits.>
+
+Speakers have the option of submitting either a paper or slides with
+speaker notes. Papers are preferred.
+
+This submission is to be your final version, not a draft. A paper
+submission should contain all of the usual aspects of a paper such as
+an abstract, introduction, body and conclusion. Please ensure that this
+submission has had its grammar and spelling corrected and that code
+snippets work.
+
+Your paper allows attendees who attended your talk a chance to refresh
+their memories about your presentation, and gives attendees who missed
+your talk a chance to learn from you anyway. Make sure your paper includes
+- at the very least - a brief introduction to your subject material and
+a list of further resources.
+
+We would prefer that papers for standard length talks (20 minutes) be
+no more than 4 A4 pages of 11-point type with reasonable margins and
+papers for long talks (45 minutes) be no more than 8 pages. Appropriate
+file formats include any file that can be read with Open Office (which
+includes plain text and HTML with minimal mark-up), or POD. Slides
+(even those accompanied by speaker notes) may also be printed in the
+proceedings, but we cannot perform special formatting for you.
+
+By submitting a paper to be published in the proceedings, you are agreeing
+to the OSDC Publication Agreement. (The agreement will be published later,
+as a minimum you agree to publish your paper on the web site of OSDC 
+www.osdc.org.il and in the proceedings published by the conference.)
+
+=head3 4. Review results
+
+All papers will be reviewed. The purpose of review is to ensure that
+papers are of a high quality and to aid our talk scheduling. The
+purpose is not to identify spelling or grammatical errors or to test
+code snippets, although errors may be corrected during the review if
+found. Obviously, we'd strongly recommend you ask a friend or colleague
+to give your paper a read through before you submit it.
+
+Once your paper has been reviewed, the review results will be provided
+to you so that you can make the requested improvements for the published
+version.
+
+=head3 5. Proceedings version
+
+This is the final copy of your paper as it will be printed in the
+conference proceedings.
+
+=head2 Speaker Benefits
+
+All OSDC speakers (except for lightning talks) at OSDC will have their
+conference registration fee waived.
+
+Note that it's important that you get your papers in by the due dates -
+we reserve the right to withdraw the free registration if you don't get
+it in on time. If you're having problems meeting the deadlines, please let
+us know as soon as possible so that we can work with you to figure it out.
+
+If you're a student, please make sure that we know it. We may offer
+prize(s) for the best student paper submitted.
+
+=head2 Contact details
+
+If you have any questions, please contact the OSDC organizers
+at L<organizers@osdc.org.il>
+
+Further information about the conference, how to write proposals, what
+we mean by various words etc. can be found in Frequently Asked Questions.
+TBD.
+
+=head2 Tracks List
+
+These are the streams suggested by the proposal system. Select as many
+as are appropriate for your proposal. If your technology or language
+isn't listed, don't despair! Select 'Other' and include a note in your
+proposal about what topic(s) you think would be best.
+
+=head3 Language Tracks
+
+=over 4
+
+=item * Perl
+
+=item * PHP
+
+=item * Python
+
+=item * Ruby
+
+=item * C/C++
+
+=item * Web - HTML/JavaScript
+
+=item * XML
+
+=back
+
+=head3 Concept Tracks
+
+=over 4
+
+=item * Standards
+
+=item * Security
+
+=item * Education
+
+=item * Business
+
+=item * Databases
+
+=item * Tools
+
+=item * Processes
+
+=item * Software Development
+
+=back
+
+=cut
+

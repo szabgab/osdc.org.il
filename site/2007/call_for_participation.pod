@@ -1,0 +1,136 @@
+=head1 Call for Participation
+
+Please mark your calendars! The organizers of OSDC::Israel are glad
+to announce that the next conference will be held on 20-22 February
+2007. There will be additional events such as tutorials and a Perl 6
+hackathon near the main conference; the exact schedule will be announced
+in the next month or so.
+
+OSDC::Israel is an international conference for Open Source Developers,
+running now in its second year in this form and as Yet Another Perl
+Conference (YAPC) for the three years prior to that. The conference
+has attracted renowned speakers worldwide, such as Mark-Jason Dominus,
+Audrey Tang and Larry Wall.
+
+This year's conference is held in participation with ICSEM '07, the
+Israeli Conference of Software Engineering and Management.
+
+Our venue is the Netanya Academic College, which has already graciously
+hosted us last year.
+
+We would like to invite speakers, volunteers, attendees and sponsors.
+
+=head2 Guests
+
+We already have two guests:
+
+=over 4
+
+=item * Audrey Tang, of Perl fame, lead developer of Pugs
+
+=item * Zeev Suraski, the CTO of Zend, maker of PHP
+
+=back
+
+
+=head2 Speakers
+
+A detailed Call for Papers can be found on the conference web site
+(L<http://www.osdc.org.il/2007/call_for_papers.html>).
+If you believe you have something interesting to say about software 
+development, deployment, or management, especially in the Open 
+Source context, we would like to hear from you. Past topics included 
+(but were not limited to):
+
+=over 4
+
+=item * Code techniques (Perl, PHP, Python, Ruby)
+
+=item * Powerful tools for any of the above
+
+=item * Interaction between technologies in Open Source
+
+=item * Software testing
+
+=item * Management techniques
+
+=item * How to make money from writing Open Source software
+
+=item * Future plans from language designers
+
+=back
+
+Main track talks will be 20, 45, or 90 minutes in length; in addition,
+there will be a lightning talk session intended for less experienced
+speakers or for those with small or humorous topics.
+
+
+=head2 Volunteers
+
+OSDC is a very low cost conference in the spirit of open participation and
+community sharing. One way of giving back to the community is to offer your
+time for any of these:
+
+=over 4
+
+=item * Design the web site of the conference - L<http://osdc.org.il>
+
+=item * Designing, printing, and distributing conference posters/flyers
+
+=item * Administrative help with billing
+
+=item * Production help (our interface to food, A/V, and other providers)
+
+=item * Assemble conference material
+
+=item * Docmaster (edit and produce conference proceedings)
+
+=back
+
+Any help you can give in one or more of these categories will be well
+appreciated!
+
+
+=head2 Attendees
+
+We are seeing a growing number of conference-goers, both from Israel and
+international guests. OSDC is growing nicely and we are happy for it! If
+you have any questions about arranging a visit to Israel please contact
+the organizers (see below). Tell and bring your friends!
+
+
+=head2 Sponsors
+
+OSDC is a gathering of highly skilled technological people. If you have
+benefited from the effort of Open Source people in the past, please
+consider sponsoring the event. We are not a commercial conference but
+your support will be acknowledged fairly.
+
+There is an option of a job fair this year; contact the organizers if
+your company is interested in participating.
+
+
+=head2 Communication: Mailing lists, wiki
+
+In order to ease communication the conference has two mailing lists:
+
+=over 4
+
+=item * Announcement list: L<http://osdc.org.il/mailman/listinfo/osdc-news>
+
+=item * Discussion list: L<http://osdc.org.il/mailman/listinfo/osdc-discuss>
+
+=back
+
+If you have not done so yet, please subscribe at least to the 
+announcement list in order not to miss any important news.
+
+In addition we have a wiki: L<http://wiki.osdc.org.il/>.
+
+The main conference web site: L<http://www.osdc.org.il>.
+
+
+=head2 Organizers
+
+Please direct all queries to L<organizers@osdc.org.il>.
+
