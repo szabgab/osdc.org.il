@@ -49,13 +49,6 @@
 -->
             </ul>
             <ul class="nav pull-right">
-<form action="http://perlmaven.us4.list-manage1.com/subscribe/post?u=8ef43892dc2b4e74ad9f2ba4e&amp;id=f43ae0df65"
-method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank"
-novalidate>
-	<input type="email" value="" name="EMAIL" class="email input-small" id="mce-EMAIL" placeholder="email address"
-required style="width:200px">
-	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">
-</form>
            </ul>
 
           </div><!--/.nav-collapse -->
