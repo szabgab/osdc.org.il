@@ -8,6 +8,13 @@ If you are interested, please
 subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our mailing list</a>.
 </p>
 
+
+<h2>Events</h2>
+
+<ul>
+<li>2014.02.23 <a href="/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
+</ul>
+
 <h2>Topics</h2>
 <p>
 Some of the topics that will be addressed during the meetings include
@@ -15,6 +22,8 @@ Some of the topics that will be addressed during the meetings include
 <li>Web application development using Perl, Python, Ruby, PHP, Node.js etc.</li>
 <li>Web front-end development using HTML5/CSS3/JavaScript.</li>
 <li>Mobile application development using HTML5/CSS3/JavaScript and PhoneGap.</li>
+<li>While not exactly Open source, we won't shy away from presentations about Android/iOS talks either.</li>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.arduino.cc/">Arduino</a>, and the whole "makers movement".</li>
 <li>NoSQL database</li>
 <li>Test Automation</li>
 <li>Using Linux</li>

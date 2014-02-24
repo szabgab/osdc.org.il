@@ -1,0 +1,14 @@
+=title Introduction to MongoDB the NoSQL database
+=name Introduction to MongoDB the NoSQL database
+
+
+Talk given by <a href="http://szabgab.com/">Gabor Szabo</a>.
+For more details see the <a href="http://szabgab.com/mongodb-at-the-modiin-hub.html">announcement by Gabor</a>
+and the <a href="http://modiinhub.com/event/introduction-to-mongodb-the-nosql-database/">calendar of the Modiin Hub</a>.
+
+<ul>
+<li>Date: 2014.02.23 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/165012532/">Meetup page</a></li>
+</ul>
+
