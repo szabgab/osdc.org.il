@@ -1,6 +1,9 @@
 =title Introduction to MongoDB the NoSQL database
 =name Introduction to MongoDB the NoSQL database
 
+<div id="logo">
+<img src="/img/logo-mongodb-tagline.png" alt="MongoDB" />
+</div>
 
 Talk given by <a href="http://szabgab.com/">Gabor Szabo</a>.
 For more details see the <a href="http://szabgab.com/mongodb-at-the-modiin-hub.html">announcement by Gabor</a>

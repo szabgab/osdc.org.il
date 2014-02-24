@@ -6,7 +6,7 @@ use autodie;
 
 use Template;
 
-my @pages = glob "pages/*.pod";
+my @pages = glob "pages/*.pod pages/*/*.pod";
 my $t = Template->new({
 	INCLUDE_PATH => 'tt',
 	POST_CHOMP   => 1,
@@ -24,7 +24,8 @@ foreach my $p (@pages) {
 	}
 	close $fh;
 
-	my $outfile = 'html/' . substr($p, 6, -3) . 'html';
+	my $outfile = 'html/' . substr($p, 6, -4);
+	say "Creating $outfile";
 
 	$t->process('page.tt', \%data, $outfile) or die;
 }

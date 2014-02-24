@@ -12,7 +12,7 @@ subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our maili
 <h2>Events</h2>
 
 <ul>
-<li>2014.02.23 <a href="/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
+<li>2014.02.23 <a href="/modiin/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
 </ul>
 
 <h2>Topics</h2>
