@@ -6,7 +6,7 @@ use autodie;
 
 use Template;
 
-my @pages = glob "pages/*.pod pages/*/*.pod";
+my @pages = glob "pages/*.txt pages/*/*.txt";
 my $t = Template->new({
 	INCLUDE_PATH => 'tt',
 	POST_CHOMP   => 1,
