@@ -63,22 +63,22 @@
 
       <h1>Open Source Developers Club - Modiin</h1>
 
-       
-<p>
+       <p><p>
 The OSDC Modiin is going to have regular monthly meeting starting February 2014 in the
 <a href="http://modiinhub.com/">Modiin Hub</a>.
 If you are interested, please
 subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our mailing list</a>.
 </p>
-
-
-<h2>Events</h2>
-
+<p><h2>Planned events</h2>
 <ul>
+<li>2014.03.TBA <a href="/modiin/introduction-to-the-dart-programming-language">Introduction to the Dart Programming language</a></li>
+<li>2014.03.TBA Android</li>
+</ul>
+<p><h2>Past Events</h2>
+<p><ul>
 <li>2014.02.23 <a href="/modiin/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
 </ul>
-
-<h2>Topics</h2>
+<p><h2>Planned Topics</h2>
 <p>
 Some of the topics that will be addressed during the meetings include
 <ul>
@@ -92,12 +92,9 @@ Some of the topics that will be addressed during the meetings include
 <li>Using Linux</li>
 <li>etc...</li>
 </ul>
-
-Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the mailing list</a> and suggest your topics.
+<p>Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the mailing list</a> and suggest your topics.
 </p>
-
-
-
+<p><p>
     </div> <!-- /container -->
 
     <!-- Le javascript

@@ -10,8 +10,11 @@ For more details see the <a href="http://szabgab.com/mongodb-at-the-modiin-hub.h
 and the <a href="http://modiinhub.com/event/introduction-to-mongodb-the-nosql-database/">calendar of the Modiin Hub</a>.
 
 <ul>
+<li>Title: Introduction to MongoDB the NoSQL database</li>
+<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
 <li>Date: 2014.02.23 19:00</li>
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
 <li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/165012532/">Meetup page</a></li>
+<li>Slides: <a href="http://edumaven.com/mongodb/">MongoDB </a></li>
 </ul>
 

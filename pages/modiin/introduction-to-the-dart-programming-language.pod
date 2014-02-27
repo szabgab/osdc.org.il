@@ -1,0 +1,22 @@
+=title Introduction to the Dart programming language
+=name Introduction to the Dart programming language
+
+<div id="logo">
+<img src="/img/dart-logo-wordmark.png" width="360" height="95" alt="Dart logo" />
+</div>
+
+The <a href="https://www.dartlang.org/">Dart programming language</a>
+has been developed by Google as a replacement to JavaScript both on the client side, and on the
+server side. In this talk we are going to take a look at some of the
+syntax of the language and we'll see how we can get started using it.
+
+
+<ul>
+<li>Title: Introduction to the Dart programming language</li>
+<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
+<li>Date: 2014.03.TBA 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<!-- <li><a href="">Meetup page</a></li> -->
+<li>Slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+</ul>
+

@@ -8,14 +8,19 @@ If you are interested, please
 subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our mailing list</a>.
 </p>
 
+<h2>Planned events</h2>
+<ul>
+<li>2014.03.TBA <a href="/modiin/introduction-to-the-dart-programming-language">Introduction to the Dart Programming language</a></li>
+<li>2014.03.TBA Android</li>
+</ul>
 
-<h2>Events</h2>
+<h2>Past Events</h2>
 
 <ul>
 <li>2014.02.23 <a href="/modiin/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
 </ul>
 
-<h2>Topics</h2>
+<h2>Planned Topics</h2>
 <p>
 Some of the topics that will be addressed during the meetings include
 <ul>

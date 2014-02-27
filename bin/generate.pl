@@ -12,6 +12,7 @@ my $t = Template->new({
 	POST_CHOMP   => 1,
 	EVAL_PERL    => 0,
 	});
+
 foreach my $p (@pages) {
 	open my $fh, '<', $p;
 	my %data = (body => '');
@@ -20,6 +21,7 @@ foreach my $p (@pages) {
 			$data{$1} = $2;
 			next;
 		}
+		$line =~ s/^\s*$/<p>/;
 		$data{body} .= $line;
 	}
 	close $fh;
