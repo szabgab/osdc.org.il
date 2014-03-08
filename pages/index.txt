@@ -42,3 +42,8 @@ Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the m
 <h2>Source</h2>
 
 The source of the site is in <a href="https://github.com/szabgab/osdc.org.il">GitHub</a>
+
+<img src="/img/osdc_modiin1_t.png" />
+
+<img src="/img/osdc_modiin2_t.png" />
+
