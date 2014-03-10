@@ -11,7 +11,8 @@ subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our maili
 <h2>Planned events</h2>
 <ul>
 <li>2014.03.25 <a href="/modiin/introduction-to-the-dart-programming-language">Introduction to the Dart Programming language</a></li>
-<li>2014.04.TBA Android</li>
+<li>2014.04.06 <a href="/modiin/android-programming">Android programming</a></li>
+<li>...</li>
 </ul>
 
 <h2>Past Events</h2>

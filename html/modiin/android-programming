@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Introduction to the Dart programming language</title>
+    <title>Android Programming</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -42,7 +42,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="/">Introduction to the Dart programming language</a>
+          <a class="brand" href="/">Android Programming</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
 <!--
@@ -61,23 +61,18 @@
 
     <div class="container">
 
-      <h1>Introduction to the Dart programming language</h1>
+      <h1>Android Programming</h1>
 
-       <p><div id="logo">
-<img src="/img/dart-logo-wordmark.png" width="360" height="95" alt="Dart logo" />
-</div>
-<p>The <a href="https://www.dartlang.org/">Dart programming language</a>
-has been developed by Google as a replacement to JavaScript both on the client side, and on the
-server side. In this talk we are going to take a look at some of the
-syntax of the language and we'll see how we can get started using it.
-<p><p><ul>
-<li>Title: Introduction to the Dart programming language</li>
-<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
-<li>Date: 2014.03.25 19:00</li>
+       <p><ul>
+<li>Title: Android Programming</li>
+<li>Speaker: <a href="http://www.linkedin.com/profile/view?id=12674470">Yossi Shmulevitch</a></li>
+<li>Date: 2014.04.06 19:00</li>
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
 <li>Entrance fee: 25 NIS</li>
-<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/170424032/">Meetup page</a></li>
+<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/170425572/">Meetup page</a></li>
+<!--
 <li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+-->
 </ul>
 <p>
     </div> <!-- /container -->

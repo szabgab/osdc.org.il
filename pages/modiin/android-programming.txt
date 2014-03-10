@@ -1,0 +1,15 @@
+=title Android Programming
+=name Android Programming
+
+<ul>
+<li>Title: Android Programming</li>
+<li>Speaker: <a href="http://www.linkedin.com/profile/view?id=12674470">Yossi Shmulevitch</a></li>
+<li>Date: 2014.04.06 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<li>Entrance fee: 25 NIS</li>
+<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/170425572/">Meetup page</a></li>
+<!--
+<li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+-->
+</ul>
+
