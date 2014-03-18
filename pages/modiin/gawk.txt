@@ -14,10 +14,11 @@ He has been the sole maintainer of the project since 1994. This is the outline o
   <li>Gawk Development Through The Years (seriously condensed)</li>
   <li>My Writing Career (also condensed)</li>
   <li>Lessons Learned Cloning A Unix Program</li>
-  <li>The Current State of Aw</li>k
+  <li>The Current State of Awk</li>
   <li>Summary</li>
 </ul>
 
+<hr>
 
 <ul>
 <li>Title: The GNU Project and Me --- 27 Years with GNU Awk</li>
