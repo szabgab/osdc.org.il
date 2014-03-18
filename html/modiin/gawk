@@ -64,7 +64,7 @@
       <h1>The GNU Project and Me --- 27 Years with GNU Awk</h1>
 
        <p><div id="logo">
-<img src="gnu-head-sm.jpg" alt="GNU head" />
+<img src="/img/gnu-head-sm.jpg" alt="GNU head" />
 </div>
 <p>Aharon Robbins has been involved with <a href="http://www.gnu.org/software/gawk/">Gawk</a>,
 the <a href="http://www.gnu.org/">GNU</a> implementation of Awk, since 1987.

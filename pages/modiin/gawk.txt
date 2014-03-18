@@ -2,7 +2,7 @@
 =name The GNU Project and Me --- 27 Years with GNU Awk
 
 <div id="logo">
-<img src="gnu-head-sm.jpg" alt="GNU head" />
+<img src="/img/gnu-head-sm.jpg" alt="GNU head" />
 </div>
 
 Aharon Robbins has been involved with <a href="http://www.gnu.org/software/gawk/">Gawk</a>,
