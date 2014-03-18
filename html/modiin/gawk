@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Open Source Developers Club - Modiin</title>
+    <title>The GNU Project and Me --- 27 Years with GNU Awk</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -42,7 +42,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="/">Open Source Developers Club - Modiin</a>
+          <a class="brand" href="/">The GNU Project and Me --- 27 Years with GNU Awk</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
 <!--
@@ -61,46 +61,36 @@
 
     <div class="container">
 
-      <h1>Open Source Developers Club - Modiin</h1>
+      <h1>The GNU Project and Me --- 27 Years with GNU Awk</h1>
 
-       <p><p>
-The OSDC Modiin is going to have regular monthly meeting starting February 2014 in the
-<a href="http://modiinhub.com/">Modiin Hub</a>.
-If you are interested, please
-subscribe to <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">our mailing list</a>.
-</p>
-<p><h2>Planned events</h2>
-<ul>
-<li>2014.03.25 <a href="/modiin/introduction-to-the-dart-programming-language">Introduction to the Dart Programming language</a></li>
-<li>2014.04.06 <a href="/modiin/android-programming">Android programming</a></li>
-<li>...</li>
-<li>2014.??.?? <a href="/modiin/gawk">Aharon Robbins and Gawk</a></li>
-</ul>
-<p><h2>Past Events</h2>
+       <p><div id="logo">
+<img src="gnu-head-sm.jpg" alt="GNU head" />
+</div>
+<p>Aharon Robbins has been involved with <a href="http://www.gnu.org/software/gawk/">Gawk</a>,
+the <a href="http://www.gnu.org/">GNU</a> implementation of Awk, since 1987.
+He has been the sole maintainer of the project since 1994. This is the outline of his talk:
 <p><ul>
-<li>2014.02.23 <a href="/modiin/introduction-to-mongodb-the-nosql-database">Introduction to MongoDB, the NoSQL database</a></li>
+  <li>How I Got Involved</li>
+  <li>Gawk Development Through The Years (seriously condensed)</li>
+  <li>My Writing Career (also condensed)</li>
+  <li>Lessons Learned Cloning A Unix Program</li>
+  <li>The Current State of Aw</li>k
+  <li>Summary</li>
 </ul>
-<p><h2>Planned Topics</h2>
-<p>
-Some of the topics that will be addressed during the meetings include
-<ul>
-<li>Web application development using Perl, Python, Ruby, PHP, Node.js etc.</li>
-<li>Web front-end development using HTML5/CSS3/JavaScript.</li>
-<li>Mobile application development using HTML5/CSS3/JavaScript and PhoneGap.</li>
-<li>While not exactly Open source, we won't shy away from presentations about Android/iOS talks either.</li>
-<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.arduino.cc/">Arduino</a>, and the whole "makers movement".</li>
-<li>NoSQL database</li>
-<li>Test Automation</li>
-<li>Using Linux</li>
-<li>etc...</li>
+<p><p><ul>
+<li>Title: The GNU Project and Me --- 27 Years with GNU Awk</li>
+<li>Speaker: <a href="http://skeeve.com/">Aharon Robbins</a></li>
+<li>Date: 2014.??.?? 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<li>Entrance fee: 25 NIS</li>
+<!--
+<li><a href="">Meetup page</a></li>
+-->
+<!--
+<li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+-->
 </ul>
-<p>Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the mailing list</a> and suggest your topics.
-</p>
-<p><p><h2>Source</h2>
-<p>The source of the site is in <a href="https://github.com/szabgab/osdc.org.il">GitHub</a>
-<p><img src="/img/osdc_modiin1_t.png" />
-<p><img src="/img/osdc_modiin2_t.png" />
-<p>
+<p><p>
     </div> <!-- /container -->
 
     <!-- Le javascript

@@ -1,0 +1,36 @@
+=title The GNU Project and Me --- 27 Years with GNU Awk
+=name The GNU Project and Me --- 27 Years with GNU Awk
+
+<div id="logo">
+<img src="gnu-head-sm.jpg" alt="GNU head" />
+</div>
+
+Aharon Robbins has been involved with <a href="http://www.gnu.org/software/gawk/">Gawk</a>,
+the <a href="http://www.gnu.org/">GNU</a> implementation of Awk, since 1987.
+He has been the sole maintainer of the project since 1994. This is the outline of his talk:
+
+<ul>
+  <li>How I Got Involved</li>
+  <li>Gawk Development Through The Years (seriously condensed)</li>
+  <li>My Writing Career (also condensed)</li>
+  <li>Lessons Learned Cloning A Unix Program</li>
+  <li>The Current State of Aw</li>k
+  <li>Summary</li>
+</ul>
+
+
+<ul>
+<li>Title: The GNU Project and Me --- 27 Years with GNU Awk</li>
+<li>Speaker: <a href="http://skeeve.com/">Aharon Robbins</a></li>
+<li>Date: 2014.??.?? 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<li>Entrance fee: 25 NIS</li>
+<!--
+<li><a href="">Meetup page</a></li>
+-->
+<!--
+<li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+-->
+</ul>
+
+
