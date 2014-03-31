@@ -6,10 +6,25 @@
 <li>Speaker: <a href="http://www.linkedin.com/profile/view?id=12674470">Yossi Shmulevitch</a></li>
 <li>Date: 2014.04.06 19:00</li>
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
-<li>Entrance fee: 25 NIS</li>
+<li>Entrance fee: There is no entrance fee, but you can chip in the cost of refreshment</li>
 <li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/170425572/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
 <!--
 <li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
 -->
 </ul>
+
+<ul>
+<li>כלי פיתוח באנדרואיד - Eclipse & Android SDK</li>
+<li>מבנה האפליקציה</li>
+<li>אמולטורים ובדיקה על מכשירים</li>
+<li>מהי Activity? מי צריך Fragments?</li>
+<li>פיתוח UI ושימוש ב Layouts</li>
+<li>אפליקציית דוגמה</li>
+<li>מילה על Server Side - כן , יש דבר כזה גם במובייל</li>
+<li>אם נספיק:</li>
+<li>אנימציות</li>
+<li>חנויות גוגל, אמאזון ואחרות</li>
+<li>מודלי רווח (וגם הפסד..)</li>
+</ul>
+
 
