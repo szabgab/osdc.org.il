@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>The GNU Project and Me --- 27 Years with GNU Awk</title>
+    <title>Testing Web applications using Selenium</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -57,33 +57,33 @@
 
     <div class="container">
 
-      <h1>The GNU Project and Me --- 27 Years with GNU Awk</h1>
+      <h1>Testing Web applications using Selenium</h1>
 
        <p><div id="logo">
-<img src="/img/gnu-head-sm.jpg" alt="GNU head" />
+<img src="/img/selenium-big-logo.png" alt="Selenium logo" />
 </div>
-<p>Aharon Robbins has been involved with <a href="http://www.gnu.org/software/gawk/">Gawk</a>,
-the <a href="http://www.gnu.org/">GNU</a> implementation of Awk, since 1987.
-He has been the sole maintainer of the project since 1994. This is the outline of his talk:
-<p><ul>
-  <li>How I Got Involved</li>
-  <li>Gawk Development Through The Years (seriously condensed)</li>
-  <li>My Writing Career (also condensed)</li>
-  <li>Lessons Learned Cloning A Unix Program</li>
-  <li>The Current State of Awk</li>
-  <li>Summary</li>
-</ul>
+<p>As a developer of a web application, or as the manager of a company with a web application, let me ask
+a question:
+<p><b>Can you sleep at night?</b>
+<p>Are you sure your application still works? Will it also work after the next urgent change?
+<p>Can you afford a team of people who will test the whole application after every change?
+<p>Thoroughly testing a web application can be very time consuming. Doing it again, and again after each change
+is impossible.
+<p>Unless it is automated.
+<p>In this talk you are going to learn how to use Selenium to make you sleep better.
 <p><hr>
 <p><ul>
-<li>Title: The GNU Project and Me --- 27 Years with GNU Awk</li>
-<li>Speaker: <a href="http://skeeve.com/">Aharon Robbins</a></li>
-<li>Date: 2014.05.27 19:00</li>
+<li>Title: How to use Selenium to sleep better</li>
+<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
+<li>Date: 2014.08.XX 19:00</li>
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
 <li>Entrance fee: none</li>
+<!--
 <li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/183571852/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
-<li>Slides in <a href="http://www.skeeve.com/gnu-awk-and-me-2014.pdf">pdf</a> format.</li>
+-->
+<li>Related slides at <a href="http://edumaven.com/">EduMaven</a>.</li>
 </ul>
-<p><p>
+<p><p><p>
     </div> <!-- /container -->
 
     <!-- Le javascript

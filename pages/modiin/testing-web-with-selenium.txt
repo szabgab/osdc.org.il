@@ -1,0 +1,39 @@
+=title Testing Web applications using Selenium
+=name  Testing Web applications using Selenium
+
+<div id="logo">
+<img src="/img/selenium-big-logo.png" alt="Selenium logo" />
+</div>
+
+As a developer of a web application, or as the manager of a company with a web application, let me ask
+a question:
+
+<b>Can you sleep at night?</b>
+
+Are you sure your application still works? Will it also work after the next urgent change?
+
+Can you afford a team of people who will test the whole application after every change?
+
+Thoroughly testing a web application can be very time consuming. Doing it again, and again after each change
+is impossible.
+
+Unless it is automated.
+
+In this talk you are going to learn how to use Selenium to make you sleep better.
+
+<hr>
+
+<ul>
+<li>Title: How to use Selenium to sleep better</li>
+<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
+<li>Date: 2014.08.XX 19:00</li>
+<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
+<li>Entrance fee: none</li>
+<!--
+<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/183571852/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
+-->
+<li>Related slides at <a href="http://edumaven.com/">EduMaven</a>.</li>
+</ul>
+
+
+
