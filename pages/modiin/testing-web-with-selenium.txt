@@ -19,7 +19,7 @@ is impossible.
 
 Unless it is automated.
 
-In this talk you are going to learn how to use Selenium to make you sleep better.
+In this talk you are going to learn how to use <a href="http://docs.seleniumhq.org/">Selenium</a> to make you sleep better.
 
 <hr>
 
