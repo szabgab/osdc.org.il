@@ -6,7 +6,7 @@
 </div>
 
 <div class="error">
-Cancelled - due to lack of interest, this presentation and the meeting has been cancelled.
+Canceled - due to lack of interest, this presentation and the meeting has been canceled.
 </div>
 
 As a developer of a web application, or as the manager of a company with a web application, let me ask
