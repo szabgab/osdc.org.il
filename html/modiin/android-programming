@@ -38,7 +38,9 @@
             <span class="icon-bar"></span>
           </a>
              <a class="brand" href="/">OSDC</a>
+<!--
              <a class="brand" href="http://mail.osdc.org.il/mailman/listinfo/modiin">Mailing list</a>
+-->
           <div class="nav-collapse collapse">
             <ul class="nav">
 <!--
