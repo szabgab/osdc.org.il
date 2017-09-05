@@ -1,6 +1,31 @@
 =title Open Source Developers Club - Modiin
 =name Open Source Developers Club - Modiin
 
+The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
+
+We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
+or improve your employability, if you are already in the field.
+
+We belive the being involved in Open Source development is good for your employment opportunities.
+
+Some of the subjects you will use in our projects. If you don't know any of these or if they don't mean anything to you don't worry.
+We'll explain everything.
+
+
+<ul>
+   <li>Git and GitHub for Version Control</li>
+   <li>Travis-CI for Continuous Integration</li>
+   <li>JSON</li>
+   <li>Python</li>
+   <li>Pytest and testing Python in general</li>
+   <li>Docker</li>
+</ul>
+
+Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> where you'll find the date and time of our next meeting.
+
+
+<!--
+
 <p>
 The OSDC Modiin is going to have regular monthly meeting starting February 2014 in the
 <a href="http://modiinhub.com/">Modiin Hub</a>.
@@ -41,6 +66,7 @@ Some of the topics that will be addressed during the meetings include
 Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the mailing list</a> and suggest your topics.
 </p>
 
+-->
 
 <h2>Source</h2>
 
