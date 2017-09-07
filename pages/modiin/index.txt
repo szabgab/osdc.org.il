@@ -1,8 +1,6 @@
 =title Open Source Developers Club - Modiin branch
 =name Open Source Developers Club - Modiin branch
 
-<h2>Modiin branch</h2>
-
 <img class="logo" src="/img/yuda.jpg" />
 
 The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
