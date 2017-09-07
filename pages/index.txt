@@ -1,7 +1,7 @@
 =title Open Source Developers Club
 =name Open Source Developers Club - Modiin branch
 
-<img class="logo" src="/img/yuda.png" />
+<img class="logo" src="/img/yuda.jpg" />
 
 The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
 
