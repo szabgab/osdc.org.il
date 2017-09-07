@@ -61,14 +61,12 @@
 
       <h1>Open Source Developers Club</h1>
 
-       <p><img class="logo" src="/img/yuda.jpg" />
-<p>The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
-<p>We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
+       <p>We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
 or improve your employability, if you are already in the field.
 <p>We belive the being involved in Open Source development is good for your employment opportunities.
 <p>Some of the subjects you will use in our projects. If you don't know any of these or if they don't mean anything to you don't worry.
 We'll explain everything.
-<p><p><ul>
+<p><ul>
    <li>Git and GitHub for Version Control</li>
    <li>Travis-CI for Continuous Integration</li>
    <li>JSON</li>
@@ -76,6 +74,9 @@ We'll explain everything.
    <li>Pytest and testing Python in general</li>
    <li>Docker</li>
 </ul>
+<p><h2>Modiin branch</h2>
+<p><img class="logo" src="/img/yuda.jpg" />
+<p>The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
 <p>Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> where you'll find the date and time of our next meeting.
 <p><p><!--
 <p><p>
