@@ -29,6 +29,10 @@ Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> whe
 
 You can also check out our primary <a href="https://github.com/szabgab/modiin-co-learning/">GitHub repository</a>.
 
+<h2 id="contact">Contact information</h2>
+
+Gabor Szabo &lt;gabor@szabgab.com&gt; 054-4624648
+
 <!--
 
 <p>
