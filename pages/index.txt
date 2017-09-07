@@ -4,7 +4,8 @@
 We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
 or improve your employability, if you are already in the field.
 
-We belive the being involved in Open Source development is good for your employment opportunities.
+We belive the being involved in Open Source development is good for your employment opportunities bacause it provides real world
+experiment that you can show to the potential employers.
 
 Some of the subjects you will use in our projects. If you don't know any of these or if they don't mean anything to you don't worry.
 We'll explain everything.
@@ -26,6 +27,7 @@ The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
 
 Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> where you'll find the date and time of our next meeting.
 
+You can also check out our primary <a href="https://github.com/szabgab/modiin-co-learning/">GitHub repository</a>.
 
 <!--
 
