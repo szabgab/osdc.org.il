@@ -1,6 +1,8 @@
 =title Open Source Developers Club
 =name Open Source Developers Club - Modiin branch
 
+<img class="logo" src="/img/yuda.png" />
+
 The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
 
 We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
@@ -75,5 +77,5 @@ The source of the site is in <a href="https://github.com/szabgab/osdc.org.il">Gi
 
 -->
 
-<img class="logo" src="/img/osdc_modiin2_t.png" />
+<img width="100px" src="/img/osdc_modiin2_t.png" />
 
