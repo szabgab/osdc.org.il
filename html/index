@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Open Source Developers Club - Modiin</title>
+    <title>Open Source Developers Club</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -59,7 +59,7 @@
 
     <div class="container">
 
-      <h1>Open Source Developers Club - Modiin</h1>
+      <h1>Open Source Developers Club</h1>
 
        <p>The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
 <p>We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
@@ -111,11 +111,11 @@ Some of the topics that will be addressed during the meetings include
 </ul>
 <p>Come, <a href="http://mail.osdc.org.il/mailman/listinfo/modiin">join us on the mailing list</a> and suggest your topics.
 </p>
-<p>-->
-<p><h2>Source</h2>
+<p><p><h2>Source</h2>
 <p>The source of the site is in <a href="https://github.com/szabgab/osdc.org.il">GitHub</a>
 <p><img src="/img/osdc_modiin1_t.png" />
-<p><img src="/img/osdc_modiin2_t.png" />
+<p>-->
+<p><img class="logo" src="/img/osdc_modiin2_t.png" />
 <p>
     </div> <!-- /container -->
 
