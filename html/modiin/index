@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Testing Web applications using Selenium</title>
+    <title>Open Source Developers Club - Modiin branch</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -61,34 +61,15 @@
 
     <div class="container">
 
-      <h1>Testing Web applications using Selenium</h1>
+      <h1>Open Source Developers Club - Modiin branch</h1>
 
-       <p><div id="logo">
-<img src="/img/selenium-big-logo.png" alt="Selenium logo" />
-</div>
-<p><div class="error">
-Canceled - due to lack of interest, this presentation and the meeting has been canceled.
-</div>
-<p>As a developer of a web application, or as the manager of a company with a web application, let me ask
-a question:
-<p><b>Can you sleep at night?</b>
-<p>Are you sure your application still works? Will it also work after the next urgent change?
-<p>Can you afford a team of people who will test the whole application after every change?
-<p>Thoroughly testing a web application can be very time consuming. Doing it again, and again after each change
-is impossible.
-<p>Unless it is automated.
-<p>In this talk you are going to learn how to use <a href="http://docs.seleniumhq.org/">Selenium</a> to make you sleep better.
-<p><hr>
-<p><ul>
-<li>Title: How to use Selenium to sleep better</li>
-<li>Speaker: <a href="http://szabgab.com/">Gabor Szabo</a></li>
-<li>Date: 2014.08.03 19:00</li>
-<li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
-<li>Entrance fee: none</li>
-<li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/192333242/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
-<li>Related slides at <a href="http://edumaven.com/">EduMaven</a>.</li>
-</ul>
-<p><p><p>
+       <p><h2>Modiin branch</h2>
+<p><img class="logo" src="/img/yuda.jpg" />
+<p>The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
+<p>Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> where you'll find the date and time of our next meeting.
+<p>You can also check out our primary <a href="https://github.com/szabgab/modiin-co-learning/">GitHub repository</a>.
+<p><img src="/img/osdc_modiin_150x180.png" />
+<p>
     </div> <!-- /container -->
 
     <!-- Le javascript

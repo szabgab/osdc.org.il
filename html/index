@@ -38,7 +38,8 @@
             <span class="icon-bar"></span>
           </a>
              <a class="brand" href="/">OSDC</a>
-             <a class="brand" href="#contact">Contact</a>
+             <a class="brand" href="/modiin/">Modiin</a>
+             <a class="brand" href="/#contact">Contact</a>
 <!--
              <a class="brand" href="http://mail.osdc.org.il/mailman/listinfo/modiin">Mailing list</a>
 -->
@@ -74,14 +75,12 @@ We'll explain everything.
    <li>JSON</li>
    <li>Python</li>
    <li>Pytest and testing Python in general</li>
+   <li>JavaScript</li>
+   <li>Linux</li>
+   <li>VirtualBox</li>
+   <li>Vagrant</li>
    <li>Docker</li>
 </ul>
-<p><h2>Modiin branch</h2>
-<p><img class="logo" src="/img/yuda.jpg" />
-<p>The OSDC Modiin has weekly meeting in Yuda, the Youth Center of Modiin.
-<p>Visit <a href="https://www.meetup.com/Modiin-Tech-Talks">our Meetup page</a> where you'll find the date and time of our next meeting.
-<p>You can also check out our primary <a href="https://github.com/szabgab/modiin-co-learning/">GitHub repository</a>.
-<p><img src="/img/osdc_modiin_150x180.png" />
 <p><h2 id="contact">Contact information</h2>
 <p>Gabor Szabo &lt;gabor@szabgab.com&gt; 054-4624648
 <p><!--
