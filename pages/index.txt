@@ -1,6 +1,10 @@
 =title Open Source Developers Club
 =name Open Source Developers Club
 
+<div class="center">
+<img src="/img/in_mesh.jpeg" />
+</div>
+
 We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
 or improve your employability, if you are already in the field.
 
