@@ -61,7 +61,9 @@
 
     <div class="container">
 
+<div class="center">
       <h1>Testing Web applications using Selenium</h1>
+</div>
 
        <p><div id="logo">
 <img src="/img/selenium-big-logo.png" alt="Selenium logo" />

@@ -61,7 +61,9 @@
 
     <div class="container">
 
+<div class="center">
       <h1>The GNU Project and Me --- 27 Years with GNU Awk</h1>
+</div>
 
        <p><div id="logo">
 <img src="/img/gnu-head-sm.jpg" alt="GNU head" />
