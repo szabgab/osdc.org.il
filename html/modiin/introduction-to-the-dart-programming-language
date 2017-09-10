@@ -39,7 +39,7 @@
           </a>
              <a class="brand" href="/">OSDC</a>
              <a class="brand" href="/modiin/">Modiin</a>
-             <a class="brand" href="/#contact">Contact</a>
+             <a class="brand" href="/resource/">Resources</a>
 <!--
              <a class="brand" href="http://mail.osdc.org.il/mailman/listinfo/modiin">Mailing list</a>
 -->
@@ -48,10 +48,10 @@
 <!--
               <li class="active"><a href="#">Home</a></li>
               <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
 -->
             </ul>
             <ul class="nav pull-right">
+             <li><a class="brand" href="/#contact">Contact</a></li>
            </ul>
 
           </div><!--/.nav-collapse -->
