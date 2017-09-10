@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Learning resources</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="/bootstrap/ico/favicon.ico">
+
+    <link href="/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+             <a class="brand" href="/">OSDC</a>
+             <a class="brand" href="/modiin/">Modiin</a>
+             <a class="brand" href="/#contact">Contact</a>
+<!--
+             <a class="brand" href="http://mail.osdc.org.il/mailman/listinfo/modiin">Mailing list</a>
+-->
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+<!--
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+-->
+            </ul>
+            <ul class="nav pull-right">
+           </ul>
+
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+<div class="center">
+      <h1>Learning resources</h1>
+</div>
+
+       <p><ul>
+    <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+    <li><a href="https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e">370 free online programming resources</a></li>
+    <li><a href="https://edumaven.com/">EduMaven</a> training slides</li>
+</ul>
+<p><h2>Recommended Podcasts</h2>
+<ul>
+    <li><a href="http://www.codenewbie.org/">CodeNewbie</a> - Stories from people on their coding journey.<li>
+    <li><a href="https://changelog.com/">ChangeLog</a> - Interview with Open Source Developers</li>
+    <li><a href="https://talkpython.fm/">Talk Python</a> - Interview with people in the Python community</li>
+</ul>
+<p><h2>Articles</h2>
+<ul>
+    <li><a href="https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a">A Beginner's Guide to Open Source</a> by <a href="https://github.com/alainakafkes">Alaina Kafkes</a></li>
+    <li><a href="https://medium.freecodecamp.org/i-made-my-first-open-source-contribution-within-200-days-and-how-you-can-too-4d5bdbd63fad">I made my first open source contribution within 200 days (and how you can too)</a> by [<a href="https://github.com/jjprevite">Joe Previte</a></li>
+</ul>
+<p>
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/bootstrap/js/jquery.js"></script>
+    <script src="/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="/bootstrap/js/bootstrap-scrollspy.js"></script>
+    <script src="/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="/bootstrap/js/bootstrap-button.js"></script>
+    <script src="/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="/bootstrap/js/bootstrap-typeahead.js"></script>
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12199211-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end Google Analytics -->
+  </body>
+</html>

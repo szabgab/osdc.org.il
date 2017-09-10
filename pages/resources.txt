@@ -1,0 +1,22 @@
+=title Learning resources
+=name Learning resources
+
+<ul>
+    <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+    <li><a href="https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e">370 free online programming resources</a></li>
+    <li><a href="https://edumaven.com/">EduMaven</a> training slides</li>
+</ul>
+
+<h2>Recommended Podcasts</h2>
+<ul>
+    <li><a href="http://www.codenewbie.org/">CodeNewbie</a> - Stories from people on their coding journey.<li>
+    <li><a href="https://changelog.com/">ChangeLog</a> - Interview with Open Source Developers</li>
+    <li><a href="https://talkpython.fm/">Talk Python</a> - Interview with people in the Python community</li>
+</ul>
+
+<h2>Articles</h2>
+<ul>
+    <li><a href="https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a">A Beginner's Guide to Open Source</a> by <a href="https://github.com/alainakafkes">Alaina Kafkes</a></li>
+    <li><a href="https://medium.freecodecamp.org/i-made-my-first-open-source-contribution-within-200-days-and-how-you-can-too-4d5bdbd63fad">I made my first open source contribution within 200 days (and how you can too)</a> by [<a href="https://github.com/jjprevite">Joe Previte</a></li>
+</ul>
+

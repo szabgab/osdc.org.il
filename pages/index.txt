@@ -8,20 +8,40 @@
 We provide learning opportunities and mentoring on your way to start your career in the hi-tech world
 or improve your employability, if you are already in the field.
 
-We belive the being involved in Open Source development is good for your employment opportunities bacause it provides real world
-experiment that you can show to the potential employers.
+We think mutual help and continuous education is key to our long-term success in this world.
+
+We think that that one of the best ways to learn is to help others to learn so from the beginning we expect our participants to help each other and especially help the newcomers.
+Our participants are diverse in their skill-set and background from absolute beginners to seasoned developers.
+
+We belive the being involved in Open Source and Free Software projects is good for your employment opportunities as it provides real world
+experiment that you can show to the potential employers. It is also a small contribution to make the world a better place.
+
+<h2>Introduction</h2>
+
+When you join our meetings, the first thing we usually do is have a conversation to learn a bit about your background and your goals to be able to
+direct you to the tasks that fit you best.
+
+Usually the first thing you will learn, if you don't know already, is using Git and GitHub for version control.
+As a participant of our meetings you will get free access to the book [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git).
+
+<h2>The skills you will learn</h2>
 
 Some of the subjects you will use in our projects. If you don't know any of these or if they don't mean anything to you don't worry.
 We'll explain everything.
 
 <ul>
    <li>Git and GitHub for Version Control</li>
-   <li>Travis-CI for Continuous Integration</li>
+   <li>Configuring Travis-CI for Continuous Integration</li>
    <li>JSON</li>
    <li>Python</li>
+   <li>Writing Unit and Integration Tests</li>
    <li>Pytest and testing Python in general</li>
+   <li>Both back-end and front-end development.</li>
+   <li>HTML</li>
+   <li>CSS</li>
    <li>JavaScript</li>
-   <li>Linux</li>
+   <li>JQuery</li>
+   <li>Using Linux</li>
    <li>VirtualBox</li>
    <li>Vagrant</li>
    <li>Docker</li>
@@ -32,6 +52,7 @@ We'll explain everything.
 <ul>
    <li><a href="/modiin">Modiin</a></li>
 </ul>
+
 
 <h2 id="contact">Contact information</h2>
 
