@@ -22,7 +22,7 @@ When you join our meetings, the first thing we usually do is have a conversation
 direct you to the tasks that fit you best.
 
 Usually the first thing you will learn, if you don't know already, is using Git and GitHub for version control.
-As a participant of our meetings you will get free access to the book [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git).
+As a participant of our meetings you will get free access to the book <a href="https://leanpub.com/collab-dev-git">Collaborative Development using Git and GitHub</a>.
 
 <h2>The skills you will learn</h2>
 
