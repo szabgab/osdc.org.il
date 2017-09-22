@@ -24,6 +24,17 @@ direct you to the tasks that fit you best.
 Usually the first thing you will learn, if you don't know already, is using Git and GitHub for version control.
 As a participant of our meetings you will get free access to the book <a href="https://leanpub.com/collab-dev-git">Collaborative Development using Git and GitHub</a>.
 
+<h2>Areas</h2>
+
+There are several big areas we are covering at our meetings:
+
+<ul>
+   <li>Front-end developer</li>
+   <li>Back-end developer</li>
+   <li>DevOps Engineer</li>
+   <li>Configuration Management</li>
+</ul>
+
 <h2>The skills you will learn</h2>
 
 Some of the subjects you will use in our projects. If you don't know any of these or if they don't mean anything to you don't worry.
