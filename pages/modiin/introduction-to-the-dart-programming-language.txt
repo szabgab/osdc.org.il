@@ -17,7 +17,7 @@ syntax of the language and we'll see how we can get started using it.
 <li>Date: 2014.03.25 19:00</li>
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
 <li>Entrance fee: 25 NIS</li>
-<li>Related slides: <a href="http://edumaven.com/dart-programming/">Dart Programming</a></li>
+<li>Related slides: <a href="https://code-maven.com/slides/dart-programming/">Dart Programming</a></li>
 <li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/170424032/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
 </ul>
 

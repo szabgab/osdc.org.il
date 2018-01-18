@@ -34,7 +34,7 @@ In this talk you are going to learn how to use <a href="http://docs.seleniumhq.o
 <li>Location: <a href="http://modiinhub.com/">Modiin Hub</a> next to the Ligad Center</li>
 <li>Entrance fee: none</li>
 <li><a href="http://www.meetup.com/Beer-Tech-Modiin/events/192333242/"><img src="/img/meetup.png" alt="Meetup page" /></a></li>
-<li>Related slides at <a href="http://edumaven.com/">EduMaven</a>.</li>
+<li>Related slides at <a href="https://code-maven.com/slides/">Code Maven slides</a>.</li>
 </ul>
 
 
